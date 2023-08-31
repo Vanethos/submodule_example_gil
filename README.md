@@ -1,3 +1,3 @@
 # This is the mega submodule
 
-Instructions
+Instructions for the banziga
